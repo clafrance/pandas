@@ -1,6 +1,6 @@
-# Pandas Script
+# Jupyter Notebook Script
 
-Panda Script analyzing the data from fantasy game Heroes of Pymoli. It will generate a report that breaks down the game's purchasing data into meaningful insights, such as:
+Analyze the data from fantasy game Heroes of Pymoli. It will generate a report that breaks down the game's purchasing data into meaningful insights, such as:
 
 ### Player Count
   * Total Number of Players
